@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hello Na yêu dấu chào mừng em đến với cái não của anh</title>
+</head>
+<body>
+  <h1>Chào em công chúa của anh, ngày hôm nay em thế nào?</h1>
+
+  <form action="https://formsubmit.co/yo@gmail.com" method="POST">
+    <label for="name">E hãy trả lời vô đây nhé pupu:</label><br>
+    <input type="text" id="name" name="name" placeholder="Điền vào đây nha 😘" required><br><br>
+
+    <label for="email">Email của em bé xinh:</label><br>
+    <input type="email" id="email" name="email" placeholder="nguyenngocngan2809@gmai.com" required><br><br>
+
+    <button type="submit">Gửi cho Khôi Mệp</button>
+  </form>
+
+  <p>Dù có như nào thì hãy nhớ rằng anh luôn ở đây nhe 🥺💋</p>
+</body>
+</html>
+
+
